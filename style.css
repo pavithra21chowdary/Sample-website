@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar{
+    display: flex;
+    display: flex!important;
+    flex-basis: auto;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.nav-list{
+    width: 200%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+.nav-list li{
+    list-style: none;
+    list-style-type: none;
+    font-size: 30px;
+    
+}
+.nav.list li a{
+  float: left;
+  list-style: none;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+
+}
+.rightnav{
+    width: 100%;
+    text-align-last: center;
+    text-decoration-style:wavy;
+    align-items: center;
+    box-shadow: lightcoral;
+    text-align: right;
+}
+.logo{
+    width: 20%;
+    display: flex;
+    
+}
+.logo img{
+    width: 53%;
+    display:flex;
+    border-color: black;
+    border-radius: 50px;
+    
+    
+}
+.background{
+    background-image:url('cod.png');
+    background-size:cover;
+    background-color: #cccccc;
+    height: 200%;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    
+}
+.firstSection{
+    height: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(26, 5, 19);
+    height: 350px;
+    text-align:center;
+    text-size-adjust: 90%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+    
+}
+.firsthalf{
+    
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.secondhalf{
+     width: 70%;
+     margin: auto;
+     display: block;
+
+    
+  
+
+}
+img{
+    border-radius: 50px;
+    padding: 5px;
+    width: 200px;
+    height: 100px;
+  }
+.text-big{
+    font-size: 50px;
+}
+.text-small{
+    font-size: 25px;
+}
+.btn{
+    padding: 8px 20px;
+    margin:7px;
+    border: 2px solid black;
+    border-radius: 18px;
+    font-size: 18px;
+    background: none;
+    column-gap: 40px;
+    
+}
+.btn1{
+    padding: 4px 20px;
+    margin:10px;
+    border-radius: 10px;
+    font-size: 16px;
+    
+}
+.courses{
+    
+    height: 100px;
+}
+.html{
+    
+    padding: 100px 50px;
+    margin: 20px;
+    border:5px solid black;
+    border-radius: 40px;
+    font-size: 40px;
+    background: none;
+}
+.css{
+   
+    padding: 100px 50px;
+    margin: 20px;
+    border:5px solid black;
+    border-radius: 40px;
+    font-size: 40px;
+    background: none;
+}
+.js{
+    
+    padding: 100px 50px;
+    margin: 20px;
+    border:5px solid black;
+    border-radius: 40px;
+    font-size: 40px;
+    background: none;
+}
+.content{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.htmlc{
+    
+    margin: 20px;
+    border:5px solid black;
+    border-radius: 40px;
+    font-size: 40px;
+    background: none;
+    height: 200px;
+}
+.content{
+    height:500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 100%;
+    margin: auto;
+    font-size: 25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    width: 1000px;
+
+}
+.cssc{
+    
+    margin: 20px;
+    border:5px solid black;
+    border-radius: 40px;
+    font-size: 40px;
+    background: none;
+    height: 200px;
+}
+.content_2{
+    height: 500px;
+    display: flex;
+    height: 23px;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    width: 1500px;
+}
+
+.bck{
+    background-color: rgb(219, 145, 151);
+    background-size:cover;
+    
+    height: 1500px;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    border-radius: 60px ;
+}
+.jsc{
+    margin: 20px;
+    border:5px solid black;
+    border-radius: 40px;
+    font-size: 40px;
+    background: none;
+    height: 200px;
+}
+.content3{
+    height: 500px;
+    display: flex;
+    height: 23px;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+  
+}
+.navbarr{
+    display: flex;
+    display: flex!important;
+    flex-basis: auto;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.nav-listt{
+    width: 50%;
+    padding: 30px 0;
+    margin-left: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: 'sans-serif';
+    list-style: none;
+    
+}
+.ck{
+    background-color: rgb(209, 231, 207);
+}
